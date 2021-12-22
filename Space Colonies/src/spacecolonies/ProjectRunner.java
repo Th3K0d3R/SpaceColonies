@@ -11,7 +11,7 @@ import java.text.ParseException;
 // As a Hokie, I will conduct myself with honor and integrity at all times.
 // I will not lie, cheat, or steal, nor will I accept the actions of those who
 // do.
-// -- Your Fiifi Sackey (906291314)
+// -- Your Fiifi Sackey 
 
 /**
  * This is the main method of the ProjectRunner class used to build GUI and run
